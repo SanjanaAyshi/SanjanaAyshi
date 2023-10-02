@@ -1,5 +1,7 @@
 
-![✂️ study with me pomodoro](https://github.com/SanjanaAyshi/SanjanaAyshi/assets/67552924/4741109b-9dcf-451f-a693-47ccb3b14b9f)
+
+![68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3232383733353133373131393831312e363230353437323462616630622e676966](https://github.com/SanjanaAyshi/SanjanaAyshi/assets/67552924/cd19ee74-a2c7-4a5e-9fae-c83874bf9b63)
+
 
 <h1 align="center">Hi 👋, I'm Sanjana Ayshi</h1>
 <h3 align="center">I like to study new things. Being knowledgeable about science and technology or any subject is an ongoing process, and I’m always proactive about seeking new opportunities to develop and grow in my role. Those opportunities could be in the form of training, a conference, listening to a speaker, or taking on a new project, but the motivation is to increase my knowledge of the field.</h3>
