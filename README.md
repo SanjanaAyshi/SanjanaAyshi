@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sanjana Ayshi</h1>
-<h3 align="center">I like to study new things. Being knowledgeable about science and technology or any subject is an ongoing process, and I’m always proactive about seeking new opportunities to develop and grow in my role. Those opportunities could be in the form of training, a conference, listening to a speaker, or taking on a new project, but the motivation is to increase my knowledge of the field.</h3>
+<h3 align="center">Hello, I’m a CSE student with a keen interest in software engineering and UI/UX design. I enjoy exploring new technologies and building creative solutions that make a difference.I’m always eager to learn new things and expand my knowledge of science, technology, and other subjects. I actively seek opportunities to develop and grow, such as training, conferences, speakers, or new projects. I want to increase my understanding of the field and improve my skills and take on new challenges. You can see some of my awesome projects and achievements on my GitHub profile. Don’t hesitate to reach out to me if you have any questions or suggestions. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjanaayshi&label=Profile%20views&color=0e75b6&style=flat" alt="sanjanaayshi" /> </p>
 
