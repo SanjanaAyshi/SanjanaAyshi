@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sanjana Ayshi</h1>
-<h3 align="center">Passionate CSE student with a flair for software engineering and UI/UX design. Enthusiastic about exploring new technologies, creating innovative solutions, and embracing learning opportunities. Eager to enhance skills, tackle challenges, and open to collaboration. Check out my GitHub for projects and feel free to connect for questions or suggestions.</h3>
+<h3 align="center">Hi! I’m a software engineer with a love for UI/UX design and creating impactful solutions. I enjoy experimenting with new tech, solving challenges, and building meaningful projects. Explore my GitHub and let’s connect!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjanaayshi&label=Profile%20views&color=0e75b6&style=flat" alt="sanjanaayshi" /> </p>
 
